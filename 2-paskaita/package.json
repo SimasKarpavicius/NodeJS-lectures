@@ -1,5 +1,5 @@
 {
-    "title": "2_paskaita_ca",
+    "title": "2-paskaita",
     "version": "1.0",
     "scripts": {
       "start": "node server.js",
